@@ -1,0 +1,5 @@
+## Plugin Loader Spi
+cn.wangoon.fd.jvm.agent.collector.GcCollector
+cn.wangoon.fd.jvm.agent.collector.ClassLoadingCollector
+cn.wangoon.fd.jvm.agent.collector.ThreadingCollector
+cn.wangoon.fd.jvm.agent.collector.MemoryCollector
